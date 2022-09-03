@@ -1,5 +1,7 @@
 # quran-chars-compute
 
+** python main.py **
+
 you can change chars your looking for like in this exemple:
 
 datas = compute(['ا','ل','م'])
