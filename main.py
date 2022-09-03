@@ -56,7 +56,6 @@ def compute(args=None):
             calcul['name'] = sora_name
             calculs.append(calcul)
         except:
-            # print()
             pass
     return calculs
 
